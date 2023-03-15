@@ -15,6 +15,6 @@
 
 ## Блок-схема алгоритма выполнения программы:
 ![Блок-схема](C:\Users\Natalia\Downloads\blok-shema.jpg)
-
+![blok-shema](https://user-images.githubusercontent.com/123109601/225288276-7d6e1dc6-d527-46f4-babc-9164640e72fd.jpg)
 
 
